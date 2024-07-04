@@ -21,6 +21,11 @@ body {
     align-items: center;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
 h1 {
     margin-top: 50px;
     margin-bottom: 20px;
@@ -157,9 +162,7 @@ main > :nth-child(3) {
     background-size: auto;
 }
 
-a{
- text-decoration: none;
-}
+
 
 .projeto a:visited{
     color: rgb(7, 7, 7);
